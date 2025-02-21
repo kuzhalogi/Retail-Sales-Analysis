@@ -40,9 +40,15 @@ Here are the visuals I created using **Power BI**:
 ### 📌 Transaction Trends
 ![Cleaning Process](./dashboard_images/Discount_and_Payment_Distribuions.png)
 
----
-### Checkout the visual in Power BI [Retail_sales_analysis.pbix](./Power_BI_Visuals/)
 
+##  Power BI
+#### Checkout the visuals in [Retail_sales_analysis.pbix](./Power_BI_Visuals/)
+
+
+## Notebooks:
+#### For more understanding of data and extra visuals
+- **Contains Data cleaning procedure in python** [Data Cleaning](./Data_and_notebooks/Data_Cleaing_Sales.ipynb)
+- **Extra visuals and analysis** [EDA and Visuals](./Data_and_notebooks/EDA_Sales.ipynb)
 
 ## Cleaning Steps & Feature Engineering
 - **Handled missing values** in `Item`, `Total Spent`, `Price Per Unit`, and `Quantity`.
@@ -53,8 +59,8 @@ Here are the visuals I created using **Power BI**:
 - **Power BI** (for dashboards)
 - **Pandas & Python** (for data cleaning)
 
----
-### Thanks to the Dataset from Kaggle [View on Dataset](https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-data-cleaning)
+## Data Set   
+#### Thanks to the Dataset from Kaggle [View on Dataset](https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-data-cleaning)
 
 
 
