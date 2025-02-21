@@ -41,7 +41,7 @@ Here are the visuals I created using **Power BI**:
 ![Cleaning Process](./dashboard_images/Discount_and_Payment_Distribuions.png)
 
 ---
-### Checkout the visual in Power BI [Retail_sales_analysis.pbix](./Power_BI_Visuals/Retail_sales_analysis.pbix)
+### Checkout the visual in Power BI [Retail_sales_analysis.pbix](./Power_BI_Visuals/)
 
 
 ## Cleaning Steps & Feature Engineering
