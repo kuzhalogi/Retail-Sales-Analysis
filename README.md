@@ -1,5 +1,4 @@
 #  Retail Store Sales Analysis (Power BI) 
-*by Kuzhalogi Murthy*
 The dataset contains 12,575 sales transactions but has **missing values, inconsistencies, and "dirty" data**, making it a great test case for **data cleaning & visualization**.
 
 ## Key Insights from Analysis
